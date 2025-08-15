@@ -1,6 +1,6 @@
 # nikhil
 Hi hello this is my profile
-<h1 align="center">Hi 👋, I'm My name is Nikhil</h1>
+<h1 align="center">Hi 👋,My name is Nikhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkssem&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkssem" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://illustrious-gumdrop-6cc224.netlify.app/](https://illustrious-gumdrop-6cc224.netlify.app/)
